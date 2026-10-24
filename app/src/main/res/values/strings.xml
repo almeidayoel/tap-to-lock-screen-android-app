@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lock Screen</string>
+    <string name="admin_description">Allows this app to lock the screen when opened.</string>
+    <string name="admin_explanation">Allow Lock Screen to use device-admin access. This is required to lock the screen. You can remove this access in Android settings before uninstalling the app.</string>
+    <string name="screen_instructions">Open this app to lock the screen. The first time, Android will ask you to allow device-admin access.</string>
+    <string name="enable_admin">Enable device admin</string>
+    <string name="admin_not_enabled">Device-admin access was not enabled. Enable it to let this app lock the screen.</string>
+    <string name="lock_failed">Android could not lock the screen. Confirm device-admin access is still enabled.</string>
+</resources>
